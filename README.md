@@ -4,6 +4,9 @@ The work before the paper: the notebooks that led to my M.Sc. thesis and to **si
 
 The final method lives in its own repository — [sigma-binary](https://github.com/mostafa-ja/sigma-binary). This repository is the road to it, told as one story in seven chapters.
 
+*A note on dates: the notebooks date from the thesis work itself. They were gathered from ten earlier repositories and consolidated into this edition in November 2026; the executed originals remain in those (now archived) repositories.*
+
+
 ## The story
 
 Malware detectors are machine-learning models, and machine-learning models can be fooled. This repository follows one question through the whole arc of the research: **how robust are Android malware detectors and their defences against adversarial examples — perturbations that change a malware sample's features without changing what it does?**
