@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper it led to."
+title: "pre-thesis-adversarial-ml — The work before the paper: notebooks leading to the sigma-binary method"
+type: software
+authors:
+  - family-names: "Jafari"
+    given-names: "Mostafa"
+    orcid: "https://orcid.org/0009-0002-3210-5731"
+url: "https://github.com/mostafa-ja/pre-thesis-adversarial-ml"
+date-released: 2026-11-27
+abstract: "The research notebooks behind an MSc thesis on adversarial attacks against static-analysis Android malware detection: data and features, detectors, attacks, defenses, a contrastive-learning study, and the thesis evaluation that produced the sigma-binary method."
+preferred-citation:
+  type: article
+  title: "Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems"
+  authors:
+    - family-names: "Jafari"
+      given-names: "Mostafa"
+      orcid: "https://orcid.org/0009-0002-3210-5731"
+    - family-names: "Shameli-Sendi"
+      given-names: "Alireza"
+  journal: "Computers and Electrical Engineering"
+  volume: 130
+  year: 2026
+  doi: "10.1016/j.compeleceng.2025.110845"
